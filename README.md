@@ -1,2 +1,3 @@
-# powerapps-projects
-Completed or ongoing real-world Microsoft Power Apps projects
+# Power Apps Projects
+
+Repository of real-world Power Apps projects for reference and showcase.
